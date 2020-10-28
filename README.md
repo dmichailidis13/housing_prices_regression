@@ -1,0 +1,2 @@
+# housing_prices_regression
+The purpose of this project is to build regression machine learning models in order to predict the sale price of a property. The dataset comes from the challenge ''House Prices: Advanced Regression Techniques'' on Kaggle. It involves constructing feature engineering pipelines, building several regression models including neural networks with tensorflow and ensemble models. We perform cross-validation in order to assess the models and we also perform Grid-Search in order to tune the hyper parameters of the promising models.
